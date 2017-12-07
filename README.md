@@ -6,7 +6,6 @@ This is a very simple TicTacToe program. Components used are
 2. Multiclient supported server. 
 3. Terminal based input and output 
 
-Synchronization of clients needs to be handled. 
 
  0 | 1 | 2 |
 --- --- --- 
